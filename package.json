@@ -1,0 +1,23 @@
+{
+  "name": "hw-ajs-3_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdm1try/hw-ajs-3_test.git"
+  },
+  "author": "fdm1try",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdm1try/hw-ajs-3_test/issues"
+  },
+  "homepage": "https://github.com/fdm1try/hw-ajs-3_test#readme",
+  "dependencies": {
+    "@fdm1try/hw-ajs-3": "^1.0.0"
+  }
+}
